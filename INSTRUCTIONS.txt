@@ -1,4 +1,4 @@
-1) Download the entire "*_DISTRIBUTED" folder. 
+1) Download the entire "SCellSign_DISTRIBUTED" folder. 
 
 2) If you do not have CompuCell3D (CC3D) installed:
     1. Go to https://compucell3d.org/SrcBin and download the binary adequated to your operational system
