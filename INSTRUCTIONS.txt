@@ -1,4 +1,4 @@
-1) Download the entire DISTRIBUTED folder. 
+1) Download the entire "*_DISTRIBUTED" folder. 
 
 2) If you do not have CompuCell3D (CC3D) installed:
     1. Go to https://compucell3d.org/SrcBin and download the binary adequated to your operational system
@@ -14,3 +14,5 @@
 6) You can change the parameters by hand inside the SCellSign.py file, or you can implement a parameter scan using CC3D default parameter scan or by implementing a Python script.
 
 7) If you want to see an intense chemotactic response, I suggest you to try the parameters delta=0.01 and mu=1000000.
+
+CONTACT: pdalcastel@gmail.com (use the subject "Single Cell Chemotaxis [...]" so I prioritize responding to you)
