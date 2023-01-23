@@ -1,0 +1,16 @@
+1) Download the entire DISTRIBUTED folder. 
+
+2) If you do not have CompuCell3D (CC3D) installed:
+    1. Go to https://compucell3d.org/SrcBin and download the binary adequated to your operational system
+    2. Follow the installation instructions
+    3. Complete installation, try running twedit++.bat and compucell3d.bat  o verify that they open correctly. If not, message me (contact at the end).
+    
+3) Idealy, start openning twedit++.bat, click the large black arrow pointing up (open CC3D project) or go to "CC3D Project"->"Open CC3D Project..." or use command Ctrl+Shift+O.
+
+4) Go to your project location and open the file with the ".cc3d" extension. The Player window will pop up with the simulation loaded.
+
+5) By default, the simulation runs automatically. If not, click the play button. 
+
+6) You can change the parameters by hand inside the SCellSign.py file, or you can implement a parameter scan using CC3D default parameter scan or by implementing a Python script.
+
+7) If you want to see an intense chemotactic response, I suggest you to try the parameters delta=0.01 and mu=1000000.
